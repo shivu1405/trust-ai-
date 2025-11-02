@@ -1,0 +1,7 @@
+{
+  "name": "Trust AI",
+  "description": "An AI-powered platform to analyze text, URLs, and images for misinformation and credibility. It provides a detailed breakdown including credibility scores, bias detection, fact-checking, and explainable summaries to promote media literacy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
